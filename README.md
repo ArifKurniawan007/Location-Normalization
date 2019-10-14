@@ -1,4 +1,4 @@
-# Locaton-Normalization
+# Location-Normalization
 This script used to normalization an address in 3 section ie city, state, and coutry. 
 Method was used is lookup an address in a file state/city/districts. 
 Normalization was maked specifics to an address in Indonesia.
